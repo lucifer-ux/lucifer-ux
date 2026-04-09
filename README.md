@@ -11,7 +11,7 @@ I specialize in building efficient systems that run everywhere—from localized 
 
 - **[4bits.co](https://4bits.co)**: Architecting high-performance applications with a focus on seamless UI/UX and robust backend processing.
 - **[0str1ch.com](https://0str1ch.com)**: An AI-powered spreadsheet solution engineered to run entirely locally, ensuring absolute data privacy while maintaining advanced computational capabilities.
-- **Pengu1n (Private)**: An AI-driven Telegram matchmaking bot generating highly qualified leads for recruiters and job seekers. Currently serving 35 users (with ~20% Daily Active Users) and facilitating real-world hiring matches.
+- **Pengu1n (https://t.me/Penguin0Bot)**: An AI-driven Telegram matchmaking bot generating highly qualified leads for recruiters and job seekers. Currently serving 35 users (with ~20% Daily Active Users) and facilitating real-world hiring matches.
 
 ---
 
