@@ -23,7 +23,7 @@ My open-source work currently focuses on building a unified, local-first file se
 A local-first system designed to index, semantically search, and sync files to a dedicated Radxa storage node.
 
 * **Tauri Desktop Client**: The frontend interface providing high-speed, local search functionalities without relying on cloud indexing.
-* **[`searchembedsdk`](https://github.com/lucifer-ux/searchembedsdk)**: The core Python dependency powering the semantic parsing and text-native search capabilities.
+* **[`contextcore`](https://github.com/lucifer-ux/searchembedsdk)**: The core Python dependency powering the semantic parsing and text-native search capabilities.
 * **`contextcore`**: The proprietary base engine I developed to handle the embedding and context-retrieval pipeline for the search SDK.
 
 ### Hardware Integration
