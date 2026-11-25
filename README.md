@@ -1,7 +1,7 @@
 # Hi, I'm Shashwat Shukla
 ### AI Systems Architect & UI/UX Engineer
 
-I am a software engineer with **4.5 years of experience** building high-performance AI systems, local-first desktop applications, and intuitive front-end architectures. My work bridges the gap between complex backend logic (Semantic Search, Compressed-Storage) and seamless user experiences. 
+I am a software engineer with **5 years of experience** building high-performance AI systems, local-first desktop applications, and intuitive front-end architectures. My work bridges the gap between complex backend logic (Semantic Search, Compressed-Storage) and seamless user experiences. 
 
 I specialize in building efficient systems that run everywhere—from localized offline desktop environments to specialized hardware nodes.
 
